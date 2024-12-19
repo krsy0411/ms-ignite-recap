@@ -1,4 +1,4 @@
-# Microsoft Ignite 2025 in Daegu
+# Microsoft Ignite Recap in Daegu
 
 ### `Azure DevOps + Github`
 
